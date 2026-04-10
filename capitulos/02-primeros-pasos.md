@@ -8,11 +8,11 @@ Omarchy se instala usando una imagen ISO. Está diseñado para un disco dedicado
 
 Luego responde las preguntas de configuración y confírmalas así:
 
-![Pantalla de confirmación de instalación](https://jricardo88.github.io/omarchy-manual-images/omarchy-install-k5Iksv.png)
+![Pantalla de confirmación de instalación](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-install-k5Iksv.png)
 
 Después selecciona un disco para tu instalación y sientate a ver el show de la instalación. Toma entre 2 y 10 minutos, dependiendo de la velocidad de tu computadora.
 
-![Instalación completada](https://jricardo88.github.io/omarchy-manual-images/omarchy-installed-NR1wu1.png)
+![Instalación completada](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-installed-NR1wu1.png)
 
 ¡Ahora estás listo para Omarchy!
 
@@ -33,3 +33,7 @@ Si te atascas, generalmente puedes encontrar a alguien dispuesto a ayudar en el 
 ## Usa instalación manual para necesidades especiales
 
 Si tienes necesidades especiales, como instalar Omarchy en MacBooks con chips M-series [Asahi Alarm](https://asahi-alarm.org/) o porque quieres probar dual-boot en un solo disco, deberías seguir [las instrucciones de instalación manual](./18-extras.md#instalación-manual).
+
+---
+
+← [Anterior: Bienvenida](01-bienvenida.md) | [Índice](../README.md) | [Siguiente: Navegación →](03-navegacion.md)

@@ -37,3 +37,7 @@ Tanto agregar como remover autenticación de huella digital también está dispo
 Si estás usando un dispositivo Fido2, puedes configurarlo para autenticación `sudo` usando *Configurar > Seguridad > Fido2* en el menú de Omarchy (`Super + Alt + Space`). Solo es para `sudo`, aunque, no para desbloquear tu computadora.
 
 Puedes remover la autenticación fido2 bajo *Remover > Fido2* en el menú de Omarchy.
+
+---
+
+← [Anterior: Monitores](12-monitores.md) | [Índice](../README.md) | [Siguiente: Actualizaciones →](14-actualizaciones.md)

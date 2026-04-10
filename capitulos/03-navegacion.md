@@ -4,17 +4,17 @@ En Omarchy todo funciona mediante el teclado — ¡TODO! Cuando el sistema inici
 
 Pero el lanzador de aplicaciones no está pensado para ser la forma principal de operar el sistema la mayor parte del tiempo. Podemos ir más rápido que eso. Las aplicaciones más importantes están vinculadas directamente a atajos de teclado individuales. Inicias la terminal con `Super + Return` y un navegador con `Super + Shift + Return`. Prueba hacer uno después del otro y verás la magia del tiling de Hyprland en acción:
 
-![Navegación con navegador y terminal](https://jricardo88.github.io/omarchy-manual-images/browser-terminal-yCV75f.png)
+![Navegación con navegador y terminal](https://jricardo88.github.io/omarchy-manual-es/img/browser-terminal-yCV75f.png)
 
 Puedes presionar `Super + J` para apilarlos horizontalmente en vez de verticalmente:
 
-![Ventanas apiladas](https://jricardo88.github.io/omarchy-manual-images/stacked-sswEJE.png)
+![Ventanas apiladas](https://jricardo88.github.io/omarchy-manual-es/img/stacked-sswEJE.png)
 
 Presiona `Super + J` de nuevo para volver a las posiciones horizontales. Luego prueba `Super + Shift + Flecha Derecha` mientras estás en el navegador para intercambiar las ventanas.
 
 Ahora prueba `Super + Ctrl + T` para iniciar el monitor de actividad. Aparecerá como una ventana flotante. Puedes ponerla en tiling usando `Super + T` (y presiona de nuevo para volver a hacerla flotante). Ahora presiona `Super + Shift + F` para abrir el administrador de archivos. Tendrás una configuración genial de cuatro vías:
 
-![Tiling de cuatro ventanas](https://jricardo88.github.io/omarchy-manual-images/fourway-tiling-SHbfzO.png)
+![Tiling de cuatro ventanas](https://jricardo88.github.io/omarchy-manual-es/img/fourway-tiling-SHbfzO.png)
 
 Navegas entre la ventana que quieras tener activa con `Super + Flecha`. Esto cambiará el foco y moverá el cursor al centro de la nueva aplicación.
 
@@ -32,11 +32,11 @@ También puedes pasar a pantalla completa con `Super + F` o solo ancho completo 
 
 El layout por defecto de Omarchy se llama dwindle. Mantiene todas las ventanas que abres en un solo workspace visibles todo el tiempo, aunque tenga que achicarlas.
 
-![Layout dwindle](https://jricardo88.github.io/omarchy-manual-images/dwindle-layout-BNU9qb.png)
+![Layout dwindle](https://jricardo88.github.io/omarchy-manual-es/img/dwindle-layout-BNU9qb.png)
 
 Pero también puedes elegir convertir un workspace en el layout scrolling donde las ventanas se alinean lado a lado, más allá del borde visible de la pantalla. Convietes un solo workspace en este layout via `Super + L`.
 
-![Layout scrolling](https://jricardo88.github.io/omarchy-manual-images/niri-layout-LvV25i.png)
+![Layout scrolling](https://jricardo88.github.io/omarchy-manual-es/img/niri-layout-LvV25i.png)
 
 Si quieres usar el layout scrolling como predeterminado, puedes configurarlo en `~/.config/hypr/looknfeel.conf` bajo `general { layout = scrolling }`.
 
@@ -61,3 +61,7 @@ Funciona bien para controles o quizás una terminal que quieras usar rápidament
 ## ¡Lleva un poco acostumbrarse!
 
 Lleva un tiempo acostumbrarse a navegar tu escritorio así, pero una vez que lo haces, ¡es difícil volver a la experiencia tradicional de escritorio basada en mouse!
+
+---
+
+← [Anterior: Primeros pasos](02-primeros-pasos.md) | [Índice](../README.md) | [Siguiente: Atajos de teclado →](04-atajos.md)

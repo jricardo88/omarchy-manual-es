@@ -4,6 +4,12 @@
 
 ---
 
+## Ver online
+
+📖 **Lee el manual directamente en:** [https://jricardo88.github.io/omarchy-manual-es/](https://jricardo88.github.io/omarchy-manual-es/)
+
+---
+
 ## Índice de capítulos
 
 | # | Capítulo | Descripción |
@@ -28,31 +34,27 @@
 
 ---
 
+## Enlaces útiles
+
+| Recurso | URL |
+|---------|-----|
+| 🌐 **Ver online** | [https://jricardo88.github.io/omarchy-manual-es/](https://jricardo88.github.io/omarchy-manual-es/) |
+| 📖 Manual original (inglés) | [https://learn.omacom.io/2/the-omarchy-manual](https://learn.omacom.io/2/the-omarchy-manual) |
+| 🌐 Sitio oficial de Omarchy | [https://omarchy.org/](https://omarchy.org/) |
+| 💬 Discord comunidad | [https://omarchy.org/discord](https://omarchy.org/discord) |
+| 📦 GitHub de Omarchy | [https://github.com/basecamp/omarchy](https://github.com/basecamp/omarchy) |
+
+---
+
 ## Acerca de este manual
 
 Este manual es una traducción al español del [Omarchy Manual](https://manuals.omamix.org/) oficial, adaptado con una traducción idiomática que busca una lectura natural en español.
-
-### Imágenes
-
-Las capturas de pantalla utilizadas en este manual están hospedadas en:
-<https://jricardo88.github.io/omarchy-manual-images/>
-
-### Enlaces útiles
-
-- [Sitio oficial de Omarchy](https://omarchy.org/)
-- [Manual original en inglés](https://manuals.omamix.org/)
-- [Discord de la comunidad](https://omarchy.org/discord)
-- [GitHub de Omarchy](https://github.com/basecamp/omarchy)
-
----
 
 ---
 
 ## Créditos y Referencias
 
 ### Fuente original
-
-Este manual es una traducción adaptada del **Omarchy Manual** original en inglés.
 
 | Recurso | Enlace |
 |---------|--------|
@@ -69,7 +71,7 @@ Este manual es una traducción adaptada del **Omarchy Manual** original en ingl�
 | **OpenCode (Big Pickle)** | Agente de IA utilizado para la traducción y estructuración del contenido |
 | **Gemini 3.1 Flash** | Asistente de IA utilizado como apoyo en la traducción |
 | **Pandoc** | Conversión y formateo de documentos Markdown |
-| **GitHub Pages** | Hospedaje de imágenes del manual |
+| **GitHub Pages** | Hospedaje del sitio web e imágenes del manual |
 | **Writebook** | Plataforma de publicación del manual final |
 
 ### Autor original

@@ -89,3 +89,7 @@ Inicias Spotify usando `Super + Shift + M`.
 ## NordVPN
 
 [NordVPN](https://nordvpn.com/) es un servicio VPN estándar que te permite salir con tu tráfico desde la mayoría de regiones del mundo. Para configurarlo, selecciona *Instalar > Servicio > NordVPN* desde el menú de Omarchy.
+
+---
+
+← [Anterior: AI](09-ai.md) | [Índice](../README.md) | [Siguiente: Temas y estilos →](11-temas-estilos.md)

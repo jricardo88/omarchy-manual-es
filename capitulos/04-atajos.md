@@ -319,3 +319,7 @@ Usa `Super + Ctrl + E` para mostrar un selector de emojis completo que pondrá l
 | `CapsLock Space E` | Tu email (como lo ingresaste en setup) |
 
 Puedes agregar más de los tuyos editando `~/.XCompose`, luego ejecuta `omarchy-restart-xcompose` en la terminal para que se apliquen los cambios.
+
+---
+
+← [Anterior: Navegación](03-navegacion.md) | [Índice](../README.md) | [Siguiente: Terminal y Tmux →](05-terminal.md)

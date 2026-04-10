@@ -59,8 +59,12 @@ Omarchy aborda ambos problemas con atajos de portapapeles unificados que funcion
 
 El historial del portapapeles es proporcionado por Walker y funciona tanto para texto como imágenes. Lo activas con `Super + Ctrl + V`, seleccionas tu entrada con return, y eso se colocará en el portapapeles listo para pegar con `Super + V`.
 
-![Historial del portapapeles](https://jricardo88.github.io/omarchy-manual-images/clipbord-history-soxtYp.png)
+![Historial del portapapeles](https://jricardo88.github.io/omarchy-manual-es/img/clipbord-history-soxtYp.png)
 
 También puedes buscar en el historial simplemente empezando a escribir:
 
-![Búsqueda en historial](https://jricardo88.github.io/omarchy-manual-images/clipboard-history-search-S0PjCI.png)
+![Búsqueda en historial](https://jricardo88.github.io/omarchy-manual-es/img/clipboard-history-search-S0PjCI.png)
+
+---
+
+← [Anterior: Actualizaciones](14-actualizaciones.md) | [Índice](../README.md) | [Siguiente: FAQ y Solución de problemas →](16-faq-solucion.md)

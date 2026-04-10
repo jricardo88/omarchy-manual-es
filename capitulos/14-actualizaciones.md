@@ -6,7 +6,7 @@ Esto obtiene [el último código y configuraciones de Omarchy](https://github.co
 
 Cuando hay nuevos lanzamientos, aparecerá un icono de flecha circular a la derecha de tu reloj. Haz clic en él y el proceso de actualización comenzará.
 
-![Indicador de actualización](https://jricardo88.github.io/omarchy-manual-images/screenshot-2025-09-28_19-06-08-yZI06N.png)
+![Indicador de actualización](https://jricardo88.github.io/omarchy-manual-es/img/screenshot-2025-09-28_19-06-08-yZI06N.png)
 
 ---
 
@@ -34,7 +34,7 @@ Si ya estás familiarizado con Arch, podrías estar tentado a solo ejecutar `pac
 
 Si alguna vez tienes un problema después de hacer una actualización, puedes revertir tu sistema a la instantánea tomada antes de la actualización. Solo reinicia y pick the snapshot en el menú de carga de arranque desde antes de que iniciaras la actualización.
 
-![Bootloader de Omarchy](https://jricardo88.github.io/omarchy-manual-images/omarchy-bootloader-EVTCUU.png)
+![Bootloader de Omarchy](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-bootloader-EVTCUU.png)
 
 Si de alguna manera tus archivos de configuración han sido corrompidos, también puedes realizar una reinstall de Omarchy usando `omarchy-reinstall` en la terminal. Esto restaurará tu instalación de Omarchy al último lanzamiento, te pondrá en stable y degradará cualquier paquete, y restablecerá todos los archivos de configuración. Nota que todos tus cambios de configuración de usuario a los predeterminados de Omarchy serán sobrescritos haciendo esto.
 
@@ -48,14 +48,18 @@ Para bootear y restaurar una instantánea, la seleccionas desde el cargador de a
 
 Desde esa pantalla, elige la instantánea que te gustaría bootear basada en la fecha y versión. La versión de Omarchy en el momento de la instantánea se puede ver en la esquina inferior izquierda.
 
-![Bootloader de Omarchy](https://jricardo88.github.io/omarchy-manual-images/omarchy-bootloader-Qz7kQ1.png)
+![Bootloader de Omarchy](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-bootloader-Qz7kQ1.png)
 
 Cuando llegues adentro, aparecerá un aviso notificándote que estás en una instantánea booteable y si haces clic en él, comenzará el proceso de restauración. Alternativamente, puedes utilizar `omarchy-snapshot restore`.
 
-![Restaurar instantánea](https://jricardo88.github.io/omarchy-manual-images/omarchy-restore-snapshot-2TrMhj.png)
+![Restaurar instantánea](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-restore-snapshot-2TrMhj.png)
 
 Esto restaurará tu `/root`, pero no tu `/home`. Así que funciona para revertir una actualización de sistema rota, pero no para recuperar archivos personales perdidos.
 
 Esto también significa que tu directorio `~/.config` se mantiene como está. Así que si estás revirtiendo a una versión anterior de una librería o aplicación que almacena archivos de configuración en un formato nuevo, tendrás que resolver eso manualmente.
 
 *Nota: Esta característica solo está disponible en instalaciones usando el cargador de arranque Limine, que ha sido el predeterminado desde Omarchy 2.0. No está disponible si estás en GRUB o systemd-boot.*
+
+---
+
+← [Anterior: Seguridad](13-seguridad.md) | [Índice](../README.md) | [Siguiente: Ajustes comunes →](15-ajustes-comunes.md)

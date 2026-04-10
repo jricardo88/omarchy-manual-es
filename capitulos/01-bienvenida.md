@@ -13,3 +13,7 @@ Empecemos con lo básico.
 ---
 
 > **Nota sobre este manual:** Esta es una traducción adaptada al español del [Omarchy Manual](https://learn.omacom.io/2/the-omarchy-manual) original escrito por [DHH](https://world.hey.com/dhh). Traducción realizada por [@jricardo88](https://github.com/jricardo88) utilizando **OpenCode (Big Pickle)** y **Gemini 3.1 Flash**, formateada con **Pandoc** y publicada en **Writebook**.
+
+---
+
+← [Índice](../README.md) | [Siguiente: Primeros pasos →](02-primeros-pasos.md)

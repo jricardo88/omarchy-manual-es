@@ -10,43 +10,43 @@ La mayoría de los temas tienen un conjunto de imágenes de fondo que puedes ele
 
 Puedes encontrar aún más temas en [la página de temas extra](./18-extras.md#temas-extra) o incluso [crear tu propio tema](./18-extras.md#crear-tu-propio-tema).
 
-![Tokyo Night](https://jricardo88.github.io/omarchy-manual-images/tokyo-night-yN9jzd.png) *Tokyo Night*
+![Tokyo Night](https://jricardo88.github.io/omarchy-manual-es/img/tokyo-night-yN9jzd.png) *Tokyo Night*
 
-![Catppuccin](https://jricardo88.github.io/omarchy-manual-images/catppuccin-DEGjke.png) *Catppuccin*
+![Catppuccin](https://jricardo88.github.io/omarchy-manual-es/img/catppuccin-DEGjke.png) *Catppuccin*
 
-![Lumon](https://jricardo88.github.io/omarchy-manual-images/preview-LFlhHZ.png) *Lumon*
+![Lumon](https://jricardo88.github.io/omarchy-manual-es/img/preview-LFlhHZ.png) *Lumon*
 
-![Ethereal](https://jricardo88.github.io/omarchy-manual-images/preview-bAfGjN.png) *Ethereal*
+![Ethereal](https://jricardo88.github.io/omarchy-manual-es/img/preview-bAfGjN.png) *Ethereal*
 
-![Everforest](https://jricardo88.github.io/omarchy-manual-images/everforest-VTw7rC.png) *Everforest*
+![Everforest](https://jricardo88.github.io/omarchy-manual-es/img/everforest-VTw7rC.png) *Everforest*
 
-![Gruvbox](https://jricardo88.github.io/omarchy-manual-images/gruvbox-zTUJ1I.png) *Gruvbox*
+![Gruvbox](https://jricardo88.github.io/omarchy-manual-es/img/gruvbox-zTUJ1I.png) *Gruvbox*
 
-![Miasma](https://jricardo88.github.io/omarchy-manual-images/preview-9laZfK.png) *Miasma*
+![Miasma](https://jricardo88.github.io/omarchy-manual-es/img/preview-9laZfK.png) *Miasma*
 
-![Hackerman](https://jricardo88.github.io/omarchy-manual-images/hackerman-6k-tc-9s09Op.png) *Hackerman*
+![Hackerman](https://jricardo88.github.io/omarchy-manual-es/img/hackerman-6k-tc-9s09Op.png) *Hackerman*
 
-![Osaka Jade](https://jricardo88.github.io/omarchy-manual-images/osaka-jade-15wLcY.jpg) *Osaka Jade*
+![Osaka Jade](https://jricardo88.github.io/omarchy-manual-es/img/osaka-jade-15wLcY.jpg) *Osaka Jade*
 
-![Kanagawa](https://jricardo88.github.io/omarchy-manual-images/kanagawa-qNhehU.png) *Kanagawa*
+![Kanagawa](https://jricardo88.github.io/omarchy-manual-es/img/kanagawa-qNhehU.png) *Kanagawa*
 
-![Nord](https://jricardo88.github.io/omarchy-manual-images/nord-Rd2Y6y.png) *Nord*
+![Nord](https://jricardo88.github.io/omarchy-manual-es/img/nord-Rd2Y6y.png) *Nord*
 
-![Matte Black](https://jricardo88.github.io/omarchy-manual-images/2025-07-15-193947_hyprshot-b4lj4R.png) *Matte Black*
+![Matte Black](https://jricardo88.github.io/omarchy-manual-es/img/2025-07-15-193947_hyprshot-b4lj4R.png) *Matte Black*
 
-![Vantablack](https://jricardo88.github.io/omarchy-manual-images/preview-sQ8537.png) *Vantablack*
+![Vantablack](https://jricardo88.github.io/omarchy-manual-es/img/preview-sQ8537.png) *Vantablack*
 
-![Ristretto](https://jricardo88.github.io/omarchy-manual-images/ristretto-theme-c99Sux.png) *Ristretto*
+![Ristretto](https://jricardo88.github.io/omarchy-manual-es/img/ristretto-theme-c99Sux.png) *Ristretto*
 
-![Retro 82](https://jricardo88.github.io/omarchy-manual-images/preview-Owc1Dr.png) *Retro 82*
+![Retro 82](https://jricardo88.github.io/omarchy-manual-es/img/preview-Owc1Dr.png) *Retro 82*
 
-![Flexoki Light](https://jricardo88.github.io/omarchy-manual-images/flexoki-theme-YaATok.png) *Flexoki Light*
+![Flexoki Light](https://jricardo88.github.io/omarchy-manual-es/img/flexoki-theme-YaATok.png) *Flexoki Light*
 
-![Rose Pine](https://jricardo88.github.io/omarchy-manual-images/omarchy-rose-pine-MUH6hH.png) *Rose Pine*
+![Rose Pine](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-rose-pine-MUH6hH.png) *Rose Pine*
 
-![Catppuccin Latte](https://jricardo88.github.io/omarchy-manual-images/catppuccin-latte-theme-1-jrWCjt.png) *Catppuccin Latte*
+![Catppuccin Latte](https://jricardo88.github.io/omarchy-manual-es/img/catppuccin-latte-theme-1-jrWCjt.png) *Catppuccin Latte*
 
-![White](https://jricardo88.github.io/omarchy-manual-images/preview-Vkqw3x.png) *White*
+![White](https://jricardo88.github.io/omarchy-manual-es/img/preview-Vkqw3x.png) *White*
 
 ---
 
@@ -64,7 +64,7 @@ Puedes encontrar una enorme colección de fondos de pantalla curados geniales en
 
 Omarchy usa JetBrainsMono Nerd Font como fuente de terminal y del sistema por defecto.
 
-![JetBrains Mono](https://jricardo88.github.io/omarchy-manual-images/jetbrainsmono-lhatXs.jpg)
+![JetBrains Mono](https://jricardo88.github.io/omarchy-manual-es/img/jetbrainsmono-lhatXs.jpg)
 
 Puedes cambiar esto para la terminal a través del menú *Estilo > Fuente* en el menú de Omarchy (`Super + Alt + Space`).
 
@@ -76,6 +76,10 @@ Puedes instalar otras fuentes populares de programación via *Instalar > Estilo 
 
 Omarchy viene con un prompt minimalista de [Starship](https://starship.rs/) por defecto. Así es como me gusta mantener mi prompt. No necesito saber el usuario, porque siempre soy yo, y no necesito saber la hora, porque siempre está en la parte superior.
 
-![Prompt de Omarchy](https://jricardo88.github.io/omarchy-manual-images/omarchy-prompt-J4UHpS.png)
+![Prompt de Omarchy](https://jricardo88.github.io/omarchy-manual-es/img/omarchy-prompt-J4UHpS.png)
 
 Si quieres más información o estilo, puedes cambiar la configuración de [Starship.rs](https://starship.rs/) en `~/.config/starship.toml`. Hay mucho que puedes hacer. Solo no te excedas (o sí, haz lo que quieras, ¡es tu computadora!)
+
+---
+
+← [Anterior: Aplicaciones GUI](10-aplicaciones-gui.md) | [Índice](../README.md) | [Siguiente: Monitores →](12-monitores.md)

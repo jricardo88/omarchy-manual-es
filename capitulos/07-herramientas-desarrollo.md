@@ -29,3 +29,7 @@ Puedes configurar las bases de datos comunes para desarrollo local en Docker usa
 [La CLI de GitHub](https://cli.github.com/) te permite autenticarte con tu cuenta de GitHub y clonar repositorios privados usándola. Para autenticarte, ejecuta `gh auth login`. Luego puedes clonar repositorios privados usando `gh repo clone org/repo`.
 
 También puedes realizar un montón de otras operaciones de GitHub usando este comando. Solo ejecuta `gh` para ver todo lo que es posible.
+
+---
+
+← [Anterior: Neovim](06-neovim.md) | [Índice](../README.md) | [Siguiente: Herramientas shell →](08-herramientas-shell.md)

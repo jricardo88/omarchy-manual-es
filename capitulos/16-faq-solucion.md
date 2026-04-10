@@ -116,6 +116,10 @@ Esto puede pasar por 2 razones:
 
 Para que aparezca el aviso de aprobación rico, Configuración > Avanzado > Usar Aceleración de Hardware debe estar activado. *Nota: Esto requiere reiniciar para comenzar a funcionar.*
 
-![1Password hw accel](https://jricardo88.github.io/omarchy-manual-images/1pw-hw-accel-w6VzWp.png)
+![1Password hw accel](https://jricardo88.github.io/omarchy-manual-es/img/1pw-hw-accel-w6VzWp.png)
 
 O si no has lanzado 1Password desde que arrancaste, el aviso no aparecerá.
+
+---
+
+← [Anterior: Ajustes comunes](15-ajustes-comunes.md) | [Índice](../README.md) | [Siguiente: Extras →](18-extras.md)

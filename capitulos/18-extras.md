@@ -175,7 +175,7 @@ Solo nota que esta configuración de encriptación no te permitirá ingresar la 
 
 Así es como debería verse la configuración de encriptación de disco. Necesitas pick `LUKS`, luego establecer la contraseña de encriptación, luego aplicar a la partición (¡este paso es crucial o nada se encripta!):
 
-![Encriptación Arch](https://jricardo88.github.io/omarchy-manual-images/arch-encryption-urjrDm.png)
+![Encriptación Arch](https://jricardo88.github.io/omarchy-manual-es/img/arch-encryption-urjrDm.png)
 
 Una vez que Arch ha sido instalado, selecciona reboot, haz login con el usuario que acabas de configurar, y ahora estás listo para instalar Omarchy ejecutando:
 
@@ -195,7 +195,7 @@ Por favor nota que instalar en un Mac con chip M-series no está soportado direc
 
 En una prueba simple, pudimos lograr ganancias de rendimiento del 36% en un MacBook Pro 2019 solo instalando Omarchy.
 
-![Mac con Omarchy](https://jricardo88.github.io/omarchy-manual-images/g0-1nxrwqaan_ih-nOdzdG.jpeg)
+![Mac con Omarchy](https://jricardo88.github.io/omarchy-manual-es/img/g0-1nxrwqaan_ih-nOdzdG.jpeg)
 
 ### Instalando Omarchy en Mac
 
@@ -269,7 +269,7 @@ Puedes cambiar la asignación de recursos editando `~/.config/windows/docker-com
 
 La versión de Windows instalada es 11 Pro. No está activada. Necesitarás activar con tu propia clave de licencia para usar todas las funciones restringidas.
 
-![Windows en Omarchy](https://jricardo88.github.io/omarchy-manual-images/windows-bhXSXL.png)
+![Windows en Omarchy](https://jricardo88.github.io/omarchy-manual-es/img/windows-bhXSXL.png)
 
 ---
 
@@ -582,3 +582,7 @@ Omarchy es realmente Arch + Hyprland, pero Henry Sipp ha [portado la esencia de 
 ### ¡Algo más!
 
 Si estás intentando hacer funcionar Omarchy en una configuración que no es la predeterminada, deberías unirte al canal \#omarchy-on-other en [nuestro Discord de comunidad](https://discord.gg/tXFUdasqhY).
+
+---
+
+← [Anterior: FAQ y Solución de problemas](16-faq-solucion.md) | [Índice](../README.md)

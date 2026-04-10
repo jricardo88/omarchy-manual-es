@@ -76,3 +76,7 @@ Ideal para hacer desarrollo web con privilegios de contexto seguro de localhost 
 - `lip`: Listar todos los reenvíos de puertos SSH activos.
 
 Digamos que inicias un servidor de desarrollo en el puerto `3000` en una máquina accesible como `nyc-dev`, entonces puedes ejecutar `fip nyc-dev 3000` para reenviar ese puerto, así `localhost:3000` realmente alcanza `nyc-dev:3000`, pero sin necesidad de certificados SSL para establecer el contexto seguro necesario para probar websockets o similares.
+
+---
+
+← [Anterior: Herramientas de desarrollo](07-herramientas-desarrollo.md) | [Índice](../README.md) | [Siguiente: AI →](09-ai.md)

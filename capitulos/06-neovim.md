@@ -40,3 +40,7 @@ Puedes iniciar Neovim con `Super + Shift + N`, pero generalmente es más fácil 
 ## Usar Neovim para ediciones con sudo
 
 Si necesitas editar archivos que solo puedes cambiar como superusuario, puedes usar neovim con todos tus plugins configurados ejecutando `sudoedit /etc/sudoers.d/00-solo-archivo-sudo`.
+
+---
+
+← [Anterior: Terminal y Tmux](05-terminal.md) | [Índice](../README.md) | [Siguiente: Herramientas de desarrollo →](07-herramientas-desarrollo.md)

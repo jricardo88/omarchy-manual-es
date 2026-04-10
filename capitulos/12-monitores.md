@@ -29,3 +29,7 @@ Solo ten en cuenta que es ejecutar Linux en pantallas de baja resolución y usar
 Hyprland funciona genial con múltiples pantallas. Lee más sobre cómo disponerlas en [la documentación de monitores de Hyprland](https://wiki.hypr.land/Configuring/Monitors/). También puedes [vincular workspaces específicos a monitores específicos](https://wiki.hypr.land/Configuring/Workspace-Rules/).
 
 También puedes revisar [Hyprmon](https://github.com/erans/hyprmon/), si quieres una TUI para ayudarte con el posicionamiento de múltiples pantallas.
+
+---
+
+← [Anterior: Temas y estilos](11-temas-estilos.md) | [Índice](../README.md) | [Siguiente: Seguridad →](13-seguridad.md)

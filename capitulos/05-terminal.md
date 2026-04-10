@@ -22,16 +22,20 @@ Porque Tmux es programable, podemos usar funciones para crear layouts. Omarchy v
 
 Entonces `tdl c` iniciaría esto:
 
-![Layout tdl con Claude](https://jricardo88.github.io/omarchy-manual-images/tmux-tdl-x-dxhZe9.png)
+![Layout tdl con Claude](https://jricardo88.github.io/omarchy-manual-es/img/tmux-tdl-x-dxhZe9.png)
 
 También puedes iniciar un segundo agente con `tdl c cx` (opencode + claude):
 
-![Layout tdl con dos agentes](https://jricardo88.github.io/omarchy-manual-images/tmux-tdl2-x-5FoPqh.png)
+![Layout tdl con dos agentes](https://jricardo88.github.io/omarchy-manual-es/img/tmux-tdl2-x-5FoPqh.png)
 
 También puedes iniciar esta configuración de layout para cada subdirectorio en el directorio actual usando `tdlm [agente]`, luego navegas usando `alt + 1/2/3/5/6/...`:
 
-![Layout tdlm](https://jricardo88.github.io/omarchy-manual-images/tdlm-x-RPg6sr.png)
+![Layout tdlm](https://jricardo88.github.io/omarchy-manual-es/img/tdlm-x-RPg6sr.png)
 
 Finalmente, puedes iniciar un enjambre de agentes usando `tsl [paneles] [comando]`. Entonces `tsl 4 c` te dará una cuadrícula de cuatro vías de agentes opencode:
 
-![Layout tsl con 4 paneles](https://jricardo88.github.io/omarchy-manual-images/tsl-x-SFzDeo.png)
+![Layout tsl con 4 paneles](https://jricardo88.github.io/omarchy-manual-es/img/tsl-x-SFzDeo.png)
+
+---
+
+← [Anterior: Atajos de teclado](04-atajos.md) | [Índice](../README.md) | [Siguiente: Neovim →](06-neovim.md)
